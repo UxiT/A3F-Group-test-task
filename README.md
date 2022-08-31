@@ -1,8 +1,6 @@
 # Php test task. Html page tag counter
 ## Usage
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
-
 Install the dependencies and devDependencies by running
 ```sh
 composer i
